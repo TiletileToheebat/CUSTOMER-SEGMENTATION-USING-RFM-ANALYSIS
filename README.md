@@ -114,5 +114,3 @@ Your app will be live in seconds! 🌍
 ## 📝 License
 
 This project is open source under the [MIT License](LICENSE).
-
-```
