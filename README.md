@@ -24,3 +24,10 @@ CUSTOMER-SEGMENTATION-USING-RFM-ANALYSIS/
 ├── customer_with_clusters.csv# Final clustered dataset
 ├── requirements.txt # Python dependencies
 └── README.md # You're here
+---
+## ⚙️ How to Run Locally
+1. **Clone the repo**
+```bash
+git clone https://github.com/TiletileToheebat/CUSTOMER-SEGMENTATION-USING-RFM-ANALYSIS.git
+cd CUSTOMER-SEGMENTATION-USING-RFM-ANALYSIS
+
