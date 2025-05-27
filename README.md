@@ -19,7 +19,7 @@ This project segments customers using **Recency, Frequency, and Monetary (RFM)**
 
 ---
 
-Try it out 👉 [Customer Segmentation App][(https://your-app-name.streamlit.app](https://customer-segmentation-using-rfm-analysis-and-kmeans-clustering.streamlit.app/)
+Try it out 👉 [Customer Segmentation App][[(https://customer-segmentation-using-rfm-analysis-and-kmeans-clustering.streamlit.app]]
 
 ---
 
