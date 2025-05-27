@@ -17,13 +17,21 @@ This project segments customers using **Recency, Frequency, and Monetary (RFM)**
 ## 📂 Project Structure
 CUSTOMER-SEGMENTATION-USING-RFM-ANALYSIS/
 │
+
 ├── Content/ # Contains ZIP dataset
+
 ├── .gitignore # Ignores venv and system files
+
 ├── customer_rfm.ipynb # Jupyter Notebook for exploration
+
 ├── customer_rfm.py # Streamlit App
+
 ├── customer_with_clusters.csv# Final clustered dataset
+
 ├── requirements.txt # Python dependencies
+
 └── README.md # You're here
+
 ---
 ## ⚙️ How to Run Locally
 1. **Clone the repo**
